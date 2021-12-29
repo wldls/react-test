@@ -1,0 +1,9 @@
+{
+  "plugins": ["testing-libiray", "jest-dom"],
+  "extends": [
+    "react-app",
+    "react-app/jest",
+    "plugin:testing-libiray/react",
+    "plugin:jest-dom/recommended"
+  ]
+}
