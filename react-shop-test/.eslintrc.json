@@ -1,9 +1,10 @@
 {
-  "plugins": ["testing-libiray", "jest-dom"],
+  "plugins": ["testing-library", "jest-dom"],
   "extends": [
     "react-app",
     "react-app/jest",
-    "plugin:testing-libiray/react",
+    "plugin:testing-library/react",
     "plugin:jest-dom/recommended"
   ]
 }
+
