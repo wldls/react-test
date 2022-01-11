@@ -1,3 +1,5 @@
 {
-  "eslint.workingDirectories": [ "react-shop-test" ]
+  "eslint.workingDirectories": ["react-shop-test"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
